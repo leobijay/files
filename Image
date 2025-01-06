@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jay Prasad Majhi's Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <!-- Use the logo image -->
+            <img src="images/logo.png" alt="Jay Prasad Majhi Logo" class="logo">
+            <h1>Welcome to Jay Prasad Majhi's Official Website</h1>
+            <p>Providing IT Services, Consulting, and IELTS/PTE Preparation</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I'm Jay Prasad Majhi, an accountant, consultant, and lifelong learner from Nepal. I specialize in business operations, accounting, and helping individuals achieve their goals, whether it's IELTS/PTE preparation or abroad study consultation.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Services</h2>
+            <ul>
+                <li>IELTS & PTE Test Preparation</li>
+                <li>Consulting for Business Growth & Operations</li>
+                <li>Website Development & IT Support</li>
+                <li>Study Abroad Consultancy (Australia, UK, USA, etc.)</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>For inquiries or collaboration, feel free to reach out to me at:</p>
+            <p><a href="mailto:contact@jayprasad.com.np">contact@jayprasad.com.np</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2025 Jay Prasad Majhi</p>
+        </div>
+    </footer>
+    
+    <script src="app.js"></script>
+</body>
+</html>
